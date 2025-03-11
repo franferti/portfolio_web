@@ -521,6 +521,11 @@ Sobremesa: 1200px*/
     padding: 20px; /*para que el contenido no esté pegado a los bordes*/
     color: white; /*evita que el div desaparezca si no tiene contenido*/
     min-height: 300px;
+    font-size: 0.8rem;
+}
+
+.footer h2 {
+    font-size: 1rem;
 }
 
 .footer-content {
@@ -545,6 +550,7 @@ Sobremesa: 1200px*/
     width: 250px;
     max-width: 100%;
     transition: transform 0.3s ease-in-out;
+    font-size: 0.8rem;
 
 }
 
@@ -559,6 +565,15 @@ Sobremesa: 1200px*/
     width: 250px;
     max-width: 100%;
     transition: transform 0.3s ease-in-out;
+    font-size: 0.8rem;
+}
+
+.contact-info h3, .tech-used h3 {
+    font-size: 1rem;
+}
+
+.contact-info p, .tech-used p {
+    font-size: 0.8rem;
 }
 
 h2 {
