@@ -24,5 +24,5 @@ This portfolio is built using the following technologies:
 I'd love to connect! Feel free to reach out if you have any questions or opportunities.  
 I'm always open to job opportunities.
 
-- 📧 **Email**: [franferti@example.com](mailto:franferti@example.com)
+- 📧 **Email**: [franferti@example.com](mailto:franfertinoco@gmail.com)
 - 🔗 **LinkedIn**: [www.linkedin.com/in/franfertinoco](https://www.linkedin.com/in/franfertinoco)
